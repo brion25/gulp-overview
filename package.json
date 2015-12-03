@@ -1,0 +1,22 @@
+{
+  "name": "gulp-overview",
+  "version": "1.0.0",
+  "description": "Basic example of a Gulp Overview",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brion25/gulp-overview.git"
+  },
+  "keywords": [
+    "gulp"
+  ],
+  "author": "JC Gomez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brion25/gulp-overview/issues"
+  },
+  "homepage": "https://github.com/brion25/gulp-overview#readme"
+}
